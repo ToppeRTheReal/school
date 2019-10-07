@@ -1,0 +1,11 @@
+/home/tops/Documents/skole/fileStream/bin/Debug/netcoreapp3.0/fileStream
+/home/tops/Documents/skole/fileStream/bin/Debug/netcoreapp3.0/fileStream.deps.json
+/home/tops/Documents/skole/fileStream/bin/Debug/netcoreapp3.0/fileStream.runtimeconfig.json
+/home/tops/Documents/skole/fileStream/bin/Debug/netcoreapp3.0/fileStream.runtimeconfig.dev.json
+/home/tops/Documents/skole/fileStream/bin/Debug/netcoreapp3.0/fileStream.dll
+/home/tops/Documents/skole/fileStream/bin/Debug/netcoreapp3.0/fileStream.pdb
+/home/tops/Documents/skole/fileStream/obj/Debug/netcoreapp3.0/fileStream.csprojAssemblyReference.cache
+/home/tops/Documents/skole/fileStream/obj/Debug/netcoreapp3.0/fileStream.AssemblyInfoInputs.cache
+/home/tops/Documents/skole/fileStream/obj/Debug/netcoreapp3.0/fileStream.AssemblyInfo.cs
+/home/tops/Documents/skole/fileStream/obj/Debug/netcoreapp3.0/fileStream.dll
+/home/tops/Documents/skole/fileStream/obj/Debug/netcoreapp3.0/fileStream.pdb

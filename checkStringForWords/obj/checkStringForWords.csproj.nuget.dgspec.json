@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tops/Documents/skole/checkStringForWords/checkStringForWords.csproj": {}
+  },
+  "projects": {
+    "/home/tops/Documents/skole/checkStringForWords/checkStringForWords.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tops/Documents/skole/checkStringForWords/checkStringForWords.csproj",
+        "projectName": "checkStringForWords",
+        "projectPath": "/home/tops/Documents/skole/checkStringForWords/checkStringForWords.csproj",
+        "packagesPath": "/home/tops/.nuget/packages/",
+        "outputPath": "/home/tops/Documents/skole/checkStringForWords/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tops/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

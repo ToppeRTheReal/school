@@ -1,0 +1,11 @@
+/home/tops/Documents/skole/checkStringForWords/bin/Debug/netcoreapp3.0/checkStringForWords
+/home/tops/Documents/skole/checkStringForWords/bin/Debug/netcoreapp3.0/checkStringForWords.deps.json
+/home/tops/Documents/skole/checkStringForWords/bin/Debug/netcoreapp3.0/checkStringForWords.runtimeconfig.json
+/home/tops/Documents/skole/checkStringForWords/bin/Debug/netcoreapp3.0/checkStringForWords.runtimeconfig.dev.json
+/home/tops/Documents/skole/checkStringForWords/bin/Debug/netcoreapp3.0/checkStringForWords.dll
+/home/tops/Documents/skole/checkStringForWords/bin/Debug/netcoreapp3.0/checkStringForWords.pdb
+/home/tops/Documents/skole/checkStringForWords/obj/Debug/netcoreapp3.0/checkStringForWords.csprojAssemblyReference.cache
+/home/tops/Documents/skole/checkStringForWords/obj/Debug/netcoreapp3.0/checkStringForWords.AssemblyInfoInputs.cache
+/home/tops/Documents/skole/checkStringForWords/obj/Debug/netcoreapp3.0/checkStringForWords.AssemblyInfo.cs
+/home/tops/Documents/skole/checkStringForWords/obj/Debug/netcoreapp3.0/checkStringForWords.dll
+/home/tops/Documents/skole/checkStringForWords/obj/Debug/netcoreapp3.0/checkStringForWords.pdb
