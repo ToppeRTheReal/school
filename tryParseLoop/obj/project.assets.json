@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toppe\\Documents\\GitHub\\school\\checkStringForWords\\checkStringForWords.csproj",
-      "projectName": "checkStringForWords",
-      "projectPath": "C:\\Users\\toppe\\Documents\\GitHub\\school\\checkStringForWords\\checkStringForWords.csproj",
+      "projectUniqueName": "C:\\Users\\toppe\\Documents\\GitHub\\school\\tryParseLoop\\tryParseLoop.csproj",
+      "projectName": "tryParseLoop",
+      "projectPath": "C:\\Users\\toppe\\Documents\\GitHub\\school\\tryParseLoop\\tryParseLoop.csproj",
       "packagesPath": "C:\\Users\\toppe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\toppe\\Documents\\GitHub\\school\\checkStringForWords\\obj\\",
+      "outputPath": "C:\\Users\\toppe\\Documents\\GitHub\\school\\tryParseLoop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\toppe\\AppData\\Roaming\\NuGet\\NuGet.Config",

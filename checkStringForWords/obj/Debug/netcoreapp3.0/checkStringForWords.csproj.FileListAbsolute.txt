@@ -9,3 +9,14 @@
 /home/tops/Documents/skole/checkStringForWords/obj/Debug/netcoreapp3.0/checkStringForWords.AssemblyInfo.cs
 /home/tops/Documents/skole/checkStringForWords/obj/Debug/netcoreapp3.0/checkStringForWords.dll
 /home/tops/Documents/skole/checkStringForWords/obj/Debug/netcoreapp3.0/checkStringForWords.pdb
+C:\Users\toppe\Documents\GitHub\school\checkStringForWords\bin\Debug\netcoreapp3.0\checkStringForWords.exe
+C:\Users\toppe\Documents\GitHub\school\checkStringForWords\bin\Debug\netcoreapp3.0\checkStringForWords.deps.json
+C:\Users\toppe\Documents\GitHub\school\checkStringForWords\bin\Debug\netcoreapp3.0\checkStringForWords.runtimeconfig.json
+C:\Users\toppe\Documents\GitHub\school\checkStringForWords\bin\Debug\netcoreapp3.0\checkStringForWords.runtimeconfig.dev.json
+C:\Users\toppe\Documents\GitHub\school\checkStringForWords\bin\Debug\netcoreapp3.0\checkStringForWords.dll
+C:\Users\toppe\Documents\GitHub\school\checkStringForWords\bin\Debug\netcoreapp3.0\checkStringForWords.pdb
+C:\Users\toppe\Documents\GitHub\school\checkStringForWords\obj\Debug\netcoreapp3.0\checkStringForWords.csprojAssemblyReference.cache
+C:\Users\toppe\Documents\GitHub\school\checkStringForWords\obj\Debug\netcoreapp3.0\checkStringForWords.AssemblyInfoInputs.cache
+C:\Users\toppe\Documents\GitHub\school\checkStringForWords\obj\Debug\netcoreapp3.0\checkStringForWords.AssemblyInfo.cs
+C:\Users\toppe\Documents\GitHub\school\checkStringForWords\obj\Debug\netcoreapp3.0\checkStringForWords.dll
+C:\Users\toppe\Documents\GitHub\school\checkStringForWords\obj\Debug\netcoreapp3.0\checkStringForWords.pdb

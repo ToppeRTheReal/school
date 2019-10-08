@@ -9,3 +9,14 @@
 /home/tops/Documents/skole/fileStream/obj/Debug/netcoreapp3.0/fileStream.AssemblyInfo.cs
 /home/tops/Documents/skole/fileStream/obj/Debug/netcoreapp3.0/fileStream.dll
 /home/tops/Documents/skole/fileStream/obj/Debug/netcoreapp3.0/fileStream.pdb
+C:\Users\toppe\Documents\GitHub\school\fileStream\bin\Debug\netcoreapp3.0\fileStream.exe
+C:\Users\toppe\Documents\GitHub\school\fileStream\bin\Debug\netcoreapp3.0\fileStream.deps.json
+C:\Users\toppe\Documents\GitHub\school\fileStream\bin\Debug\netcoreapp3.0\fileStream.runtimeconfig.json
+C:\Users\toppe\Documents\GitHub\school\fileStream\bin\Debug\netcoreapp3.0\fileStream.runtimeconfig.dev.json
+C:\Users\toppe\Documents\GitHub\school\fileStream\bin\Debug\netcoreapp3.0\fileStream.dll
+C:\Users\toppe\Documents\GitHub\school\fileStream\bin\Debug\netcoreapp3.0\fileStream.pdb
+C:\Users\toppe\Documents\GitHub\school\fileStream\obj\Debug\netcoreapp3.0\fileStream.csprojAssemblyReference.cache
+C:\Users\toppe\Documents\GitHub\school\fileStream\obj\Debug\netcoreapp3.0\fileStream.AssemblyInfoInputs.cache
+C:\Users\toppe\Documents\GitHub\school\fileStream\obj\Debug\netcoreapp3.0\fileStream.AssemblyInfo.cs
+C:\Users\toppe\Documents\GitHub\school\fileStream\obj\Debug\netcoreapp3.0\fileStream.dll
+C:\Users\toppe\Documents\GitHub\school\fileStream\obj\Debug\netcoreapp3.0\fileStream.pdb

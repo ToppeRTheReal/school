@@ -8,24 +8,26 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "/home/tops/.nuget/packages/": {}
+    "C:\\Users\\toppe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tops/Documents/skole/fileStream/fileStream.csproj",
+      "projectUniqueName": "C:\\Users\\toppe\\Documents\\GitHub\\school\\fileStream\\fileStream.csproj",
       "projectName": "fileStream",
-      "projectPath": "/home/tops/Documents/skole/fileStream/fileStream.csproj",
-      "packagesPath": "/home/tops/.nuget/packages/",
-      "outputPath": "/home/tops/Documents/skole/fileStream/obj/",
+      "projectPath": "C:\\Users\\toppe\\Documents\\GitHub\\school\\fileStream\\fileStream.csproj",
+      "packagesPath": "C:\\Users\\toppe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\toppe\\Documents\\GitHub\\school\\fileStream\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/tops/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\toppe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

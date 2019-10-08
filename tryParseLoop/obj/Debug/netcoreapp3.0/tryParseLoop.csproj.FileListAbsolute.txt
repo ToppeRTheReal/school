@@ -1,0 +1,11 @@
+C:\Users\toppe\Documents\GitHub\school\tryParseLoop\bin\Debug\netcoreapp3.0\tryParseLoop.exe
+C:\Users\toppe\Documents\GitHub\school\tryParseLoop\bin\Debug\netcoreapp3.0\tryParseLoop.deps.json
+C:\Users\toppe\Documents\GitHub\school\tryParseLoop\bin\Debug\netcoreapp3.0\tryParseLoop.runtimeconfig.json
+C:\Users\toppe\Documents\GitHub\school\tryParseLoop\bin\Debug\netcoreapp3.0\tryParseLoop.runtimeconfig.dev.json
+C:\Users\toppe\Documents\GitHub\school\tryParseLoop\bin\Debug\netcoreapp3.0\tryParseLoop.dll
+C:\Users\toppe\Documents\GitHub\school\tryParseLoop\bin\Debug\netcoreapp3.0\tryParseLoop.pdb
+C:\Users\toppe\Documents\GitHub\school\tryParseLoop\obj\Debug\netcoreapp3.0\tryParseLoop.csprojAssemblyReference.cache
+C:\Users\toppe\Documents\GitHub\school\tryParseLoop\obj\Debug\netcoreapp3.0\tryParseLoop.AssemblyInfoInputs.cache
+C:\Users\toppe\Documents\GitHub\school\tryParseLoop\obj\Debug\netcoreapp3.0\tryParseLoop.AssemblyInfo.cs
+C:\Users\toppe\Documents\GitHub\school\tryParseLoop\obj\Debug\netcoreapp3.0\tryParseLoop.dll
+C:\Users\toppe\Documents\GitHub\school\tryParseLoop\obj\Debug\netcoreapp3.0\tryParseLoop.pdb
