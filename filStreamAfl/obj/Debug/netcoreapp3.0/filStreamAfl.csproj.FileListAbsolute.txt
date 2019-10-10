@@ -1,0 +1,11 @@
+/home/topper/Documents/GitHub/school/filStreamAfl/bin/Debug/netcoreapp3.0/filStreamAfl
+/home/topper/Documents/GitHub/school/filStreamAfl/bin/Debug/netcoreapp3.0/filStreamAfl.deps.json
+/home/topper/Documents/GitHub/school/filStreamAfl/bin/Debug/netcoreapp3.0/filStreamAfl.runtimeconfig.json
+/home/topper/Documents/GitHub/school/filStreamAfl/bin/Debug/netcoreapp3.0/filStreamAfl.runtimeconfig.dev.json
+/home/topper/Documents/GitHub/school/filStreamAfl/bin/Debug/netcoreapp3.0/filStreamAfl.dll
+/home/topper/Documents/GitHub/school/filStreamAfl/bin/Debug/netcoreapp3.0/filStreamAfl.pdb
+/home/topper/Documents/GitHub/school/filStreamAfl/obj/Debug/netcoreapp3.0/filStreamAfl.csprojAssemblyReference.cache
+/home/topper/Documents/GitHub/school/filStreamAfl/obj/Debug/netcoreapp3.0/filStreamAfl.AssemblyInfoInputs.cache
+/home/topper/Documents/GitHub/school/filStreamAfl/obj/Debug/netcoreapp3.0/filStreamAfl.AssemblyInfo.cs
+/home/topper/Documents/GitHub/school/filStreamAfl/obj/Debug/netcoreapp3.0/filStreamAfl.dll
+/home/topper/Documents/GitHub/school/filStreamAfl/obj/Debug/netcoreapp3.0/filStreamAfl.pdb

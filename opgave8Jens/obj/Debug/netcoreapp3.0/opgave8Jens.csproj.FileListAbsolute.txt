@@ -1,0 +1,11 @@
+/home/topper/Documents/GitHub/school/opgave8Jens/bin/Debug/netcoreapp3.0/opgave8Jens
+/home/topper/Documents/GitHub/school/opgave8Jens/bin/Debug/netcoreapp3.0/opgave8Jens.deps.json
+/home/topper/Documents/GitHub/school/opgave8Jens/bin/Debug/netcoreapp3.0/opgave8Jens.runtimeconfig.json
+/home/topper/Documents/GitHub/school/opgave8Jens/bin/Debug/netcoreapp3.0/opgave8Jens.runtimeconfig.dev.json
+/home/topper/Documents/GitHub/school/opgave8Jens/bin/Debug/netcoreapp3.0/opgave8Jens.dll
+/home/topper/Documents/GitHub/school/opgave8Jens/bin/Debug/netcoreapp3.0/opgave8Jens.pdb
+/home/topper/Documents/GitHub/school/opgave8Jens/obj/Debug/netcoreapp3.0/opgave8Jens.csprojAssemblyReference.cache
+/home/topper/Documents/GitHub/school/opgave8Jens/obj/Debug/netcoreapp3.0/opgave8Jens.AssemblyInfoInputs.cache
+/home/topper/Documents/GitHub/school/opgave8Jens/obj/Debug/netcoreapp3.0/opgave8Jens.AssemblyInfo.cs
+/home/topper/Documents/GitHub/school/opgave8Jens/obj/Debug/netcoreapp3.0/opgave8Jens.dll
+/home/topper/Documents/GitHub/school/opgave8Jens/obj/Debug/netcoreapp3.0/opgave8Jens.pdb

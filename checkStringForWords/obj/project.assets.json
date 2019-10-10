@@ -8,26 +8,24 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\toppe\\.nuget\\packages\\": {}
+    "/home/topper/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toppe\\Documents\\GitHub\\school\\checkStringForWords\\checkStringForWords.csproj",
+      "projectUniqueName": "/home/topper/Documents/GitHub/school/checkStringForWords/checkStringForWords.csproj",
       "projectName": "checkStringForWords",
-      "projectPath": "C:\\Users\\toppe\\Documents\\GitHub\\school\\checkStringForWords\\checkStringForWords.csproj",
-      "packagesPath": "C:\\Users\\toppe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\toppe\\Documents\\GitHub\\school\\checkStringForWords\\obj\\",
+      "projectPath": "/home/topper/Documents/GitHub/school/checkStringForWords/checkStringForWords.csproj",
+      "packagesPath": "/home/topper/.nuget/packages/",
+      "outputPath": "/home/topper/Documents/GitHub/school/checkStringForWords/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\toppe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/topper/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
