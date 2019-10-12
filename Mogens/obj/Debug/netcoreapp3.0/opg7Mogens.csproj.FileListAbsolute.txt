@@ -9,3 +9,14 @@
 /home/topper/Documents/GitHub/school/opg7Mogens/obj/Debug/netcoreapp3.0/opg7Mogens.AssemblyInfo.cs
 /home/topper/Documents/GitHub/school/opg7Mogens/obj/Debug/netcoreapp3.0/opg7Mogens.dll
 /home/topper/Documents/GitHub/school/opg7Mogens/obj/Debug/netcoreapp3.0/opg7Mogens.pdb
+/home/topper/Documents/GitHub/school/Mogens/bin/Debug/netcoreapp3.0/opg7Mogens
+/home/topper/Documents/GitHub/school/Mogens/bin/Debug/netcoreapp3.0/opg7Mogens.deps.json
+/home/topper/Documents/GitHub/school/Mogens/bin/Debug/netcoreapp3.0/opg7Mogens.runtimeconfig.json
+/home/topper/Documents/GitHub/school/Mogens/bin/Debug/netcoreapp3.0/opg7Mogens.runtimeconfig.dev.json
+/home/topper/Documents/GitHub/school/Mogens/bin/Debug/netcoreapp3.0/opg7Mogens.dll
+/home/topper/Documents/GitHub/school/Mogens/bin/Debug/netcoreapp3.0/opg7Mogens.pdb
+/home/topper/Documents/GitHub/school/Mogens/obj/Debug/netcoreapp3.0/opg7Mogens.csprojAssemblyReference.cache
+/home/topper/Documents/GitHub/school/Mogens/obj/Debug/netcoreapp3.0/opg7Mogens.AssemblyInfoInputs.cache
+/home/topper/Documents/GitHub/school/Mogens/obj/Debug/netcoreapp3.0/opg7Mogens.AssemblyInfo.cs
+/home/topper/Documents/GitHub/school/Mogens/obj/Debug/netcoreapp3.0/opg7Mogens.dll
+/home/topper/Documents/GitHub/school/Mogens/obj/Debug/netcoreapp3.0/opg7Mogens.pdb

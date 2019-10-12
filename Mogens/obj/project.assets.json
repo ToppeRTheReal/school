@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/topper/Documents/GitHub/school/opg7Mogens/opg7Mogens.csproj",
+      "projectUniqueName": "/home/topper/Documents/GitHub/school/Mogens/opg7Mogens.csproj",
       "projectName": "opg7Mogens",
-      "projectPath": "/home/topper/Documents/GitHub/school/opg7Mogens/opg7Mogens.csproj",
+      "projectPath": "/home/topper/Documents/GitHub/school/Mogens/opg7Mogens.csproj",
       "packagesPath": "/home/topper/.nuget/packages/",
-      "outputPath": "/home/topper/Documents/GitHub/school/opg7Mogens/obj/",
+      "outputPath": "/home/topper/Documents/GitHub/school/Mogens/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/topper/.nuget/NuGet/NuGet.Config"
