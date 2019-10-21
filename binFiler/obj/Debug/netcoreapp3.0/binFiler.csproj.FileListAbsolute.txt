@@ -1,0 +1,11 @@
+C:\Users\toppe\Documents\GitHub\school\binFiler\bin\Debug\netcoreapp3.0\binFiler.exe
+C:\Users\toppe\Documents\GitHub\school\binFiler\bin\Debug\netcoreapp3.0\binFiler.deps.json
+C:\Users\toppe\Documents\GitHub\school\binFiler\bin\Debug\netcoreapp3.0\binFiler.runtimeconfig.json
+C:\Users\toppe\Documents\GitHub\school\binFiler\bin\Debug\netcoreapp3.0\binFiler.runtimeconfig.dev.json
+C:\Users\toppe\Documents\GitHub\school\binFiler\bin\Debug\netcoreapp3.0\binFiler.dll
+C:\Users\toppe\Documents\GitHub\school\binFiler\bin\Debug\netcoreapp3.0\binFiler.pdb
+C:\Users\toppe\Documents\GitHub\school\binFiler\obj\Debug\netcoreapp3.0\binFiler.csprojAssemblyReference.cache
+C:\Users\toppe\Documents\GitHub\school\binFiler\obj\Debug\netcoreapp3.0\binFiler.AssemblyInfoInputs.cache
+C:\Users\toppe\Documents\GitHub\school\binFiler\obj\Debug\netcoreapp3.0\binFiler.AssemblyInfo.cs
+C:\Users\toppe\Documents\GitHub\school\binFiler\obj\Debug\netcoreapp3.0\binFiler.dll
+C:\Users\toppe\Documents\GitHub\school\binFiler\obj\Debug\netcoreapp3.0\binFiler.pdb
