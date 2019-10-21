@@ -15,6 +15,8 @@ namespace binFiler
                 file.Close();
             }else
             {
+                // Reading the file
+
                 FileStream fsReader = File.OpenRead(path);
                 BinaryReader br = new BinaryReader(fsReader);
 
@@ -36,6 +38,7 @@ namespace binFiler
                     Console.WriteLine(s);
                 }
 
+                // File deletion and creation to reset
                 fsReader.Close();
                 File.Delete(path);
                 var file = File.Create(path);
@@ -43,6 +46,7 @@ namespace binFiler
             }
 
             Console.WriteLine("Hey lad os gemme et tal!");
+            // Gathering userinput as data to save
             List<int> DataToWrite = new List<int>();
             while (true)
             {
@@ -66,6 +70,7 @@ namespace binFiler
                 File.Create(path);
             }
 
+            // Writing to file
             FileStream fs = File.OpenWrite(path);
             BinaryWriter bw = new BinaryWriter(fs);
             foreach(int item in DataToWrite)
