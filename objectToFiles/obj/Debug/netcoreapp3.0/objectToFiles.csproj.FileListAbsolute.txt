@@ -1,0 +1,11 @@
+C:\Users\toppe\Documents\GitHub\school\objectToFiles\bin\Debug\netcoreapp3.0\objectToFiles.exe
+C:\Users\toppe\Documents\GitHub\school\objectToFiles\bin\Debug\netcoreapp3.0\objectToFiles.deps.json
+C:\Users\toppe\Documents\GitHub\school\objectToFiles\bin\Debug\netcoreapp3.0\objectToFiles.runtimeconfig.json
+C:\Users\toppe\Documents\GitHub\school\objectToFiles\bin\Debug\netcoreapp3.0\objectToFiles.runtimeconfig.dev.json
+C:\Users\toppe\Documents\GitHub\school\objectToFiles\bin\Debug\netcoreapp3.0\objectToFiles.dll
+C:\Users\toppe\Documents\GitHub\school\objectToFiles\bin\Debug\netcoreapp3.0\objectToFiles.pdb
+C:\Users\toppe\Documents\GitHub\school\objectToFiles\obj\Debug\netcoreapp3.0\objectToFiles.csprojAssemblyReference.cache
+C:\Users\toppe\Documents\GitHub\school\objectToFiles\obj\Debug\netcoreapp3.0\objectToFiles.AssemblyInfoInputs.cache
+C:\Users\toppe\Documents\GitHub\school\objectToFiles\obj\Debug\netcoreapp3.0\objectToFiles.AssemblyInfo.cs
+C:\Users\toppe\Documents\GitHub\school\objectToFiles\obj\Debug\netcoreapp3.0\objectToFiles.dll
+C:\Users\toppe\Documents\GitHub\school\objectToFiles\obj\Debug\netcoreapp3.0\objectToFiles.pdb

@@ -52,17 +52,16 @@ namespace binFiler
             {
                 Console.Write("Skriv dit tal> ");
                 string input = Console.ReadLine();
+                if(input == "exit()")
+                {
+                    break;
+                }
                 try
                 {
                     DataToWrite.Add(int.Parse(input));
                 }catch
                 {
                     Console.WriteLine("Hov, det var ikke et tal");
-                }
-
-                if(input == "exit()")
-                {
-                    break;
                 }
             }
             
