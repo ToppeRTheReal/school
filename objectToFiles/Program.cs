@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace objectToFiles
 {
@@ -13,6 +14,7 @@ namespace objectToFiles
                 Console.WriteLine(" ");
                 Console.WriteLine("1 - Object to binary");
                 Console.WriteLine("2 - Read file from last instance");
+                Console.WriteLine("3 - Delete file");
                 Console.WriteLine(" ");
                 Console.WriteLine(" ");
                 Console.Write("Action> ");
@@ -22,90 +24,145 @@ namespace objectToFiles
                     Write();
                 if(action == "2")
                     Read();
+                if(action == "3")
+                    Delete();
             }   
         }
 
         public static void Write() {
-            Console.WriteLine("This program will create a new binaray file");
-            Console.WriteLine("Hit any key when you're ready");
-            Console.ReadKey();
+            Console.Clear();
+            Console.WriteLine("If the program crashes you made an error here!");
+            Console.Write("Enter the path to the file (no extension)");
+            string path = Console.ReadLine() + ".bin";
 
-            Person person = new Person();
+            Product prod = new Product();
             Console.WriteLine("Person instance created");
 
             Console.WriteLine("-------------------------------------------------");
-            Console.Write("What is your name> ");
-            person.Name = Console.ReadLine().ToString();
-            Console.Write("How old are you (as number only)> ");
-            person.Age = int.Parse(Console.ReadLine());
+            
+            prod.Id = generateID();
+
+            Console.Write("Name of product> ");
+            prod.Name = Console.ReadLine().ToString();
+            Console.Write("Description of product> ");
+            prod.Description = Console.ReadLine();
+            Console.Write("Price of product> ");
+            try{
+                prod.Price = int.Parse(Console.ReadLine());
+            }catch {
+                Console.WriteLine("Not a valid number, roloading");
+                return;
+            }
+            Console.Write("How many is in stock> ");
+            try{
+                prod.InStock = int.Parse(Console.ReadLine());
+            }catch {
+                Console.WriteLine("Not a valid number, roloading");
+                return;
+            }
 
             Console.WriteLine("-------------------------------------------------");
             Console.WriteLine("Trying to write object to binary file");
 
             bool append = false;
 
-            if (File.Exists("file.bin")) {
+            if (File.Exists(path)) {
                 Console.WriteLine("file.bin already exists");
-                Console.Write("Do you want yo delete it (Y/N)");
+                Console.Write("Do you want yo delete it or append (D/A)");
                 string ans = Console.ReadLine().ToUpper();
-                if(ans == "Y")
-                    File.Delete("file.bin");
-                if (ans == "N")
+                if(ans == "D")
+                    File.Delete(path);
+                if (ans == "A")
                     append = true;
             }
 
             FileStream fs;
             if (!append)
-                fs = File.Create("file.bin");
+                fs = File.Create(path);
             else
-                fs = File.Open("file.bin", FileMode.Append);
+                fs = File.Open(path, FileMode.Append);
 
             var binaryFormatter = new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
-            binaryFormatter.Serialize(fs, person);
+            binaryFormatter.Serialize(fs, prod);
 
             fs.Close();
             Console.WriteLine("File has been created and object was written");
         }
 
         public static void Read() {
-            Console.WriteLine("Reading file.bin");
-            FileStream fs = File.Open("file.bin", FileMode.Open);
+            Console.Clear();
+            Console.WriteLine("If the program crashes you made an error here!");
+            Console.Write("Enter the path to the file (no extension)");
+            string path = Console.ReadLine() + ".bin";
+
+            FileStream fs = File.Open(path, FileMode.Open);
 
             var binaryFormatter = new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
             bool dataIsNotNull = true;
-            List<Person> DataFromFile = new List<Person>();
+            List<Product> DataFromFile = new List<Product>();
             while (dataIsNotNull)
             {
                 try
                 {
-                    Person personFromFile = (Person)binaryFormatter.Deserialize(fs);
+                    Product personFromFile = (Product) binaryFormatter.Deserialize(fs);
                     DataFromFile.Add(personFromFile);
-                    Console.WriteLine("Added object with name " + personFromFile.Name + " to list");
                 }
                 catch(Exception e)
                 {
                     dataIsNotNull = false;
-                    Console.WriteLine("End of file reached...");
                 }
 
             }
 
-            foreach(Person person in DataFromFile)
+            foreach(Product prod in DataFromFile)
             {
-                Console.WriteLine("{");
-                Console.WriteLine("   Name: " + person.Name);
-                Console.WriteLine("   Age: " + person.Age);
-                Console.WriteLine("}");
+                Console.WriteLine("ID................" + prod.Id);
+                Console.WriteLine("Name.............." + prod.Name);
+                Console.WriteLine("Description......." + prod.Description);
+                Console.WriteLine("Price............." + prod.Price);
+                Console.WriteLine("InStock..........." + prod.InStock);
 
             }
 
             fs.Close();
         }
+
+        public static void Delete() {
+            Console.Clear();
+            Console.WriteLine("If the program crashes you made an error here!");
+            Console.Write("Enter the path to the file (no extension)");
+            string path = Console.ReadLine() + ".bin";
+
+            if(!Directory.Exists("Papirkurv"))
+                Directory.CreateDirectory("Papirkurv");
+
+            if(!File.Exists(path)){
+                Console.WriteLine("file not found");
+                return;
+            }
+
+            File.Move(path, "Papirkurv/" + path);
+            Console.WriteLine("File moved to bin");
+                
+        }
+
+        private static Random r = new Random();
+        public static string generateID()
+        {
+            const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+
+            return new string(Enumerable.Repeat(chars, 100)
+                .Select(s => s[r.Next(s.Length)]).ToArray());
+
+        }
     }
 
     [Serializable]
-    public class Person {
-        public string Name { get; set; }
-        public int Age { get; set; }
+    public class Product {
+        public string Id { get; set; }
+        public string Name { get; set;}
+        public string Description { get; set; }
+        public int Price { get; set; }
+        public int InStock { get; set; }
     }
 }

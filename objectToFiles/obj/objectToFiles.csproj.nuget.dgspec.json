@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toppe\\Documents\\GitHub\\School\\objectToFiles\\objectToFiles.csproj": {}
+    "C:\\Users\\toppe\\Documents\\GitHub\\school\\objectToFiles\\objectToFiles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toppe\\Documents\\GitHub\\School\\objectToFiles\\objectToFiles.csproj": {
+    "C:\\Users\\toppe\\Documents\\GitHub\\school\\objectToFiles\\objectToFiles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toppe\\Documents\\GitHub\\School\\objectToFiles\\objectToFiles.csproj",
+        "projectUniqueName": "C:\\Users\\toppe\\Documents\\GitHub\\school\\objectToFiles\\objectToFiles.csproj",
         "projectName": "objectToFiles",
-        "projectPath": "C:\\Users\\toppe\\Documents\\GitHub\\School\\objectToFiles\\objectToFiles.csproj",
+        "projectPath": "C:\\Users\\toppe\\Documents\\GitHub\\school\\objectToFiles\\objectToFiles.csproj",
         "packagesPath": "C:\\Users\\toppe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toppe\\Documents\\GitHub\\School\\objectToFiles\\obj\\",
+        "outputPath": "C:\\Users\\toppe\\Documents\\GitHub\\school\\objectToFiles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\toppe\\AppData\\Roaming\\NuGet\\NuGet.Config",
