@@ -14,7 +14,8 @@ namespace objectToFiles
                 Console.WriteLine(" ");
                 Console.WriteLine("1 - Object to binary");
                 Console.WriteLine("2 - Read file from last instance");
-                Console.WriteLine("3 - Delete file");
+                Console.WriteLine("3 - Update stock in object");
+                Console.WriteLine("4 - Delete file");
                 Console.WriteLine(" ");
                 Console.WriteLine(" ");
                 Console.Write("Action> ");
@@ -23,8 +24,10 @@ namespace objectToFiles
                 if(action == "1")
                     Write();
                 if(action == "2")
-                    Read();
+                    Read(null);
                 if(action == "3")
+                    UpdateStock();
+                if(action == "4")
                     Delete();
             }   
         }
@@ -89,12 +92,14 @@ namespace objectToFiles
             Console.WriteLine("File has been created and object was written");
         }
 
-        public static void Read() {
+        public static void Read(string path) {
             Console.Clear();
-            Console.WriteLine("If the program crashes you made an error here!");
-            Console.Write("Enter the path to the file (no extension)");
-            string path = Console.ReadLine() + ".bin";
-
+            if(path == null) {
+                Console.WriteLine("If the program crashes you made an error here!");
+                Console.Write("Enter the path to the file (no extension)");
+                path = Console.ReadLine() + ".bin";
+            }
+            
             FileStream fs = File.Open(path, FileMode.Open);
 
             var binaryFormatter = new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
@@ -127,6 +132,58 @@ namespace objectToFiles
             fs.Close();
         }
 
+        public static void UpdateStock() {
+            Console.Clear();
+            Console.WriteLine("If the program crashes you made an error here!");
+            Console.Write("Enter the path to the file (no extension)");
+            string path = Console.ReadLine() + ".bin";
+
+            Read(path);
+
+            Console.Write("Id of the product you want to update> ");
+            string id = Console.ReadLine();
+
+            FileStream fs = File.Open(path, FileMode.Open);
+
+            FileStream temp = File.Create("temp.bin");
+            temp.Close();
+            temp = File.Open("temp.bin", FileMode.Append);
+
+            var binaryFormatter = new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
+
+            bool dataIsNotNull = true;
+            while (dataIsNotNull)
+            {
+                try
+                {
+                    Product FromFile = (Product) binaryFormatter.Deserialize(fs);
+
+                    if(FromFile.Id != id) {
+                        Console.WriteLine("Not found with id");
+                        binaryFormatter.Serialize(temp, FromFile);
+                    }else {
+                        Console.WriteLine("Found item with id");
+                        Console.Write("New stock> ");
+                        try{
+                            FromFile.InStock = int.Parse(Console.ReadLine());
+                            binaryFormatter.Serialize(temp, FromFile);
+                            fs.Close();
+                            temp.Close();
+                            File.Delete(path);
+                            File.Move("temp.bin", path);
+                        }catch {
+                            Console.WriteLine("Not a valid number :(");
+                        }
+                    }
+                }
+                catch(Exception e)
+                {
+                    dataIsNotNull = false;
+                }
+
+            }
+        }
+
         public static void Delete() {
             Console.Clear();
             Console.WriteLine("If the program crashes you made an error here!");
@@ -151,7 +208,7 @@ namespace objectToFiles
         {
             const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 
-            return new string(Enumerable.Repeat(chars, 100)
+            return new string(Enumerable.Repeat(chars, 5)
                 .Select(s => s[r.Next(s.Length)]).ToArray());
 
         }
