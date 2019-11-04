@@ -1,0 +1,11 @@
+/mnt/c/Users/toppe/Documents/GitHub/school/klasseOpgaver/bin/Debug/netcoreapp3.0/klasseOpgaver
+/mnt/c/Users/toppe/Documents/GitHub/school/klasseOpgaver/bin/Debug/netcoreapp3.0/klasseOpgaver.deps.json
+/mnt/c/Users/toppe/Documents/GitHub/school/klasseOpgaver/bin/Debug/netcoreapp3.0/klasseOpgaver.runtimeconfig.json
+/mnt/c/Users/toppe/Documents/GitHub/school/klasseOpgaver/bin/Debug/netcoreapp3.0/klasseOpgaver.runtimeconfig.dev.json
+/mnt/c/Users/toppe/Documents/GitHub/school/klasseOpgaver/bin/Debug/netcoreapp3.0/klasseOpgaver.dll
+/mnt/c/Users/toppe/Documents/GitHub/school/klasseOpgaver/bin/Debug/netcoreapp3.0/klasseOpgaver.pdb
+/mnt/c/Users/toppe/Documents/GitHub/school/klasseOpgaver/obj/Debug/netcoreapp3.0/klasseOpgaver.csprojAssemblyReference.cache
+/mnt/c/Users/toppe/Documents/GitHub/school/klasseOpgaver/obj/Debug/netcoreapp3.0/klasseOpgaver.AssemblyInfoInputs.cache
+/mnt/c/Users/toppe/Documents/GitHub/school/klasseOpgaver/obj/Debug/netcoreapp3.0/klasseOpgaver.AssemblyInfo.cs
+/mnt/c/Users/toppe/Documents/GitHub/school/klasseOpgaver/obj/Debug/netcoreapp3.0/klasseOpgaver.dll
+/mnt/c/Users/toppe/Documents/GitHub/school/klasseOpgaver/obj/Debug/netcoreapp3.0/klasseOpgaver.pdb

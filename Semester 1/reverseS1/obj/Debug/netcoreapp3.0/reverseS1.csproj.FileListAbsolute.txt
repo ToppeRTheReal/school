@@ -1,0 +1,11 @@
+/mnt/c/Users/toppe/Documents/GitHub/school/reverseS1/obj/Debug/netcoreapp3.0/reverseS1.csprojAssemblyReference.cache
+/mnt/c/Users/toppe/Documents/GitHub/school/reverseS1/obj/Debug/netcoreapp3.0/reverseS1.AssemblyInfoInputs.cache
+/mnt/c/Users/toppe/Documents/GitHub/school/reverseS1/obj/Debug/netcoreapp3.0/reverseS1.AssemblyInfo.cs
+/mnt/c/Users/toppe/Documents/GitHub/school/reverseS1/bin/Debug/netcoreapp3.0/reverseS1
+/mnt/c/Users/toppe/Documents/GitHub/school/reverseS1/bin/Debug/netcoreapp3.0/reverseS1.deps.json
+/mnt/c/Users/toppe/Documents/GitHub/school/reverseS1/bin/Debug/netcoreapp3.0/reverseS1.runtimeconfig.json
+/mnt/c/Users/toppe/Documents/GitHub/school/reverseS1/bin/Debug/netcoreapp3.0/reverseS1.runtimeconfig.dev.json
+/mnt/c/Users/toppe/Documents/GitHub/school/reverseS1/bin/Debug/netcoreapp3.0/reverseS1.dll
+/mnt/c/Users/toppe/Documents/GitHub/school/reverseS1/bin/Debug/netcoreapp3.0/reverseS1.pdb
+/mnt/c/Users/toppe/Documents/GitHub/school/reverseS1/obj/Debug/netcoreapp3.0/reverseS1.dll
+/mnt/c/Users/toppe/Documents/GitHub/school/reverseS1/obj/Debug/netcoreapp3.0/reverseS1.pdb
