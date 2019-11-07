@@ -1,0 +1,11 @@
+/mnt/c/Users/toppe/Documents/GitHub/school/Semester 1/abstractClass/bin/Debug/netcoreapp3.0/abstractClass
+/mnt/c/Users/toppe/Documents/GitHub/school/Semester 1/abstractClass/bin/Debug/netcoreapp3.0/abstractClass.deps.json
+/mnt/c/Users/toppe/Documents/GitHub/school/Semester 1/abstractClass/bin/Debug/netcoreapp3.0/abstractClass.runtimeconfig.json
+/mnt/c/Users/toppe/Documents/GitHub/school/Semester 1/abstractClass/bin/Debug/netcoreapp3.0/abstractClass.runtimeconfig.dev.json
+/mnt/c/Users/toppe/Documents/GitHub/school/Semester 1/abstractClass/bin/Debug/netcoreapp3.0/abstractClass.dll
+/mnt/c/Users/toppe/Documents/GitHub/school/Semester 1/abstractClass/bin/Debug/netcoreapp3.0/abstractClass.pdb
+/mnt/c/Users/toppe/Documents/GitHub/school/Semester 1/abstractClass/obj/Debug/netcoreapp3.0/abstractClass.csprojAssemblyReference.cache
+/mnt/c/Users/toppe/Documents/GitHub/school/Semester 1/abstractClass/obj/Debug/netcoreapp3.0/abstractClass.AssemblyInfoInputs.cache
+/mnt/c/Users/toppe/Documents/GitHub/school/Semester 1/abstractClass/obj/Debug/netcoreapp3.0/abstractClass.AssemblyInfo.cs
+/mnt/c/Users/toppe/Documents/GitHub/school/Semester 1/abstractClass/obj/Debug/netcoreapp3.0/abstractClass.dll
+/mnt/c/Users/toppe/Documents/GitHub/school/Semester 1/abstractClass/obj/Debug/netcoreapp3.0/abstractClass.pdb
