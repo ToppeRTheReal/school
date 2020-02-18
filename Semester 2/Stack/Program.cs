@@ -15,7 +15,7 @@ namespace Stack
             Stack<char> s = new Stack<char>();
 
             foreach(char c in check) {
-                if( c == '(' || c == '[' || C == '{'){
+                if( c == '(' || c == '[' || c == '{'){
                     s.Push(')');
                     addedOnce = true;
                 }
