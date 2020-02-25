@@ -1,0 +1,11 @@
+/home/topper/Documents/School/Semester 2/bst/bin/Debug/netcoreapp3.1/bst
+/home/topper/Documents/School/Semester 2/bst/bin/Debug/netcoreapp3.1/bst.deps.json
+/home/topper/Documents/School/Semester 2/bst/bin/Debug/netcoreapp3.1/bst.runtimeconfig.json
+/home/topper/Documents/School/Semester 2/bst/bin/Debug/netcoreapp3.1/bst.runtimeconfig.dev.json
+/home/topper/Documents/School/Semester 2/bst/bin/Debug/netcoreapp3.1/bst.dll
+/home/topper/Documents/School/Semester 2/bst/bin/Debug/netcoreapp3.1/bst.pdb
+/home/topper/Documents/School/Semester 2/bst/obj/Debug/netcoreapp3.1/bst.csprojAssemblyReference.cache
+/home/topper/Documents/School/Semester 2/bst/obj/Debug/netcoreapp3.1/bst.AssemblyInfoInputs.cache
+/home/topper/Documents/School/Semester 2/bst/obj/Debug/netcoreapp3.1/bst.AssemblyInfo.cs
+/home/topper/Documents/School/Semester 2/bst/obj/Debug/netcoreapp3.1/bst.dll
+/home/topper/Documents/School/Semester 2/bst/obj/Debug/netcoreapp3.1/bst.pdb
