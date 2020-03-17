@@ -1,5 +1,6 @@
 ﻿using System;
-using SortAlgoritmns.InsertSort;
+using System.Threading;
+using System.Diagnostics;
 
 namespace SortAlgoritmns
 {
@@ -8,66 +9,39 @@ namespace SortAlgoritmns
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            int[] a = new int[10];
+            int[] a = new int[10000];
+            int[] b = new int[10000];
+            int[] c = new int[10000];
             var rand = new Random();
-            for (int i = 0; i < 10; i++) { 
-                a[i] = rand.Next(0, 50); 
+            for (int i = 0; i < 10000; i++) { 
+                a[i] = rand.Next(0, 50);
+                b[i] = rand.Next(0, 50); 
+                c[i] = rand.Next(0, 50); 
             }
 
-            InsertionSort(a);
-        }
-
-         public static void InsertionSort(int[] values) {
             
-            // loop over data.Length - 1 elements                      
-            for (var next = 1; next < values.Length; ++next) {
-                
-                // store value in current element                       
-                var insert = values[next];
 
-                // initialize location to place element                 
-                var moveItem = next;
+            var stopwatch = new Stopwatch();
 
-                // search for place to put current element              
-                while (moveItem > 0 && values[moveItem - 1] > insert)
-                {
-                    // shift element right one slot                      
-                    values[moveItem] = values[moveItem - 1];
-                    moveItem--;
-                }
+            Console.ForegroundColor = ConsoleColor.Green;
+            stopwatch.Start();
+            InsertionSortClass.InsertionSort(a);
+            stopwatch.Stop();
+            
+            Console.WriteLine("Insertion took: " + stopwatch.Elapsed.TotalMilliseconds.ToString("#,##0.00 'millisekunder'"));
 
-            values[moveItem] = insert; // place inserted element    
-            PrintPass(values, next, moveItem); // output pass of algorithm
-      }
-   }
+            stopwatch.Restart();
+            SelectionSortClass.SelectionSort(b);
+            stopwatch.Stop();
+            Console.WriteLine("Selection took: " + stopwatch.Elapsed.TotalMilliseconds.ToString("#,##0.00 'millisekunder'"));
 
-   // display a pass of the algorithm
-        public static void PrintPass(int[] values, int pass, int index) {
-            Console.Write($"after pass {pass}: ");
+            stopwatch.Restart();
+            BubbleSortClass.bubbleSort(c);
+            stopwatch.Stop();
+            //BubbleSortClass.printArray(c);
 
-            // output elements till swapped item
-            for (var i = 0; i < index; ++i)
-            {
-                Console.Write($"{values[i]}  ");
-            }
-
-            Console.Write($"{values[index]}* "); // indicate swap
-
-            // finish outputting array
-            for (var i = index + 1; i < values.Length; ++i)
-            {
-                Console.Write($"{values[i]}  ");
-            }
-
-            Console.Write("\n              "); // for alignment
-
-            // indicate amount of array that is sorted
-            for (var i = 0; i <= pass; ++i)
-            {
-                Console.Write("--  ");
-            }
-
-            Console.WriteLine("\n"); // skip a line in output
+            Console.WriteLine("bubblesort took: " + stopwatch.Elapsed.TotalMilliseconds.ToString("#,##0.00 'millisekunder'"));   
+        
         }
     }
 }
