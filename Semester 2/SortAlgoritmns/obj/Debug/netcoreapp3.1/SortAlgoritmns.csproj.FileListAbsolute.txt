@@ -1,0 +1,11 @@
+C:\Users\toppe\Documents\GitHub\School\Semester 2\SortAlgoritmns\bin\Debug\netcoreapp3.1\SortAlgoritmns.exe
+C:\Users\toppe\Documents\GitHub\School\Semester 2\SortAlgoritmns\bin\Debug\netcoreapp3.1\SortAlgoritmns.deps.json
+C:\Users\toppe\Documents\GitHub\School\Semester 2\SortAlgoritmns\bin\Debug\netcoreapp3.1\SortAlgoritmns.runtimeconfig.json
+C:\Users\toppe\Documents\GitHub\School\Semester 2\SortAlgoritmns\bin\Debug\netcoreapp3.1\SortAlgoritmns.runtimeconfig.dev.json
+C:\Users\toppe\Documents\GitHub\School\Semester 2\SortAlgoritmns\bin\Debug\netcoreapp3.1\SortAlgoritmns.dll
+C:\Users\toppe\Documents\GitHub\School\Semester 2\SortAlgoritmns\bin\Debug\netcoreapp3.1\SortAlgoritmns.pdb
+C:\Users\toppe\Documents\GitHub\School\Semester 2\SortAlgoritmns\obj\Debug\netcoreapp3.1\SortAlgoritmns.csprojAssemblyReference.cache
+C:\Users\toppe\Documents\GitHub\School\Semester 2\SortAlgoritmns\obj\Debug\netcoreapp3.1\SortAlgoritmns.AssemblyInfoInputs.cache
+C:\Users\toppe\Documents\GitHub\School\Semester 2\SortAlgoritmns\obj\Debug\netcoreapp3.1\SortAlgoritmns.AssemblyInfo.cs
+C:\Users\toppe\Documents\GitHub\School\Semester 2\SortAlgoritmns\obj\Debug\netcoreapp3.1\SortAlgoritmns.dll
+C:\Users\toppe\Documents\GitHub\School\Semester 2\SortAlgoritmns\obj\Debug\netcoreapp3.1\SortAlgoritmns.pdb
