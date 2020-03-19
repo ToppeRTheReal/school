@@ -13,8 +13,7 @@ namespace SortAlgoritmns {
                         arr[j + 1] = temp; 
                     } 
         } 
-  
-    /* Prints the array */
+        
         public static void printArray(int []arr) { 
             int n = arr.Length; 
             for (int i = 0; i < n; ++i) 
