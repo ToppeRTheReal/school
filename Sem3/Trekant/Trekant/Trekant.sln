@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trekant", "Trekant\Trekant.csproj", "{016C6207-ABB1-4D81-B9D5-9627E9BD74FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{40519D25-3E42-4F0D-A585-4B7A11BF2B81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016C6207-ABB1-4D81-B9D5-9627E9BD74FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016C6207-ABB1-4D81-B9D5-9627E9BD74FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016C6207-ABB1-4D81-B9D5-9627E9BD74FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016C6207-ABB1-4D81-B9D5-9627E9BD74FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40519D25-3E42-4F0D-A585-4B7A11BF2B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40519D25-3E42-4F0D-A585-4B7A11BF2B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40519D25-3E42-4F0D-A585-4B7A11BF2B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40519D25-3E42-4F0D-A585-4B7A11BF2B81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

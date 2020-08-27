@@ -1,0 +1,12 @@
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Trekant/Trekant/Trekant/bin/Debug/netcoreapp3.1/Trekant.deps.json
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Trekant/Trekant/Trekant/bin/Debug/netcoreapp3.1/Trekant.runtimeconfig.json
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Trekant/Trekant/Trekant/bin/Debug/netcoreapp3.1/Trekant.runtimeconfig.dev.json
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Trekant/Trekant/Trekant/bin/Debug/netcoreapp3.1/Trekant.dll
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Trekant/Trekant/Trekant/bin/Debug/netcoreapp3.1/Trekant.pdb
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Trekant/Trekant/Trekant/obj/Debug/netcoreapp3.1/Trekant.csprojAssemblyReference.cache
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Trekant/Trekant/Trekant/obj/Debug/netcoreapp3.1/Trekant.AssemblyInfoInputs.cache
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Trekant/Trekant/Trekant/obj/Debug/netcoreapp3.1/Trekant.AssemblyInfo.cs
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Trekant/Trekant/Trekant/obj/Debug/netcoreapp3.1/Trekant.csproj.CoreCompileInputs.cache
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Trekant/Trekant/Trekant/obj/Debug/netcoreapp3.1/Trekant.dll
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Trekant/Trekant/Trekant/obj/Debug/netcoreapp3.1/Trekant.pdb
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Trekant/Trekant/Trekant/obj/Debug/netcoreapp3.1/Trekant.genruntimeconfig.cache
