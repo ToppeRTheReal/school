@@ -1,0 +1,36 @@
+.shop-item {
+    box-shadow: 1px 1px 1px 1px gray;
+    margin: 1%;
+}
+
+.shop-item img {
+    height: 250px;
+}
+
+.newcar-banner {
+    background-color: black;
+    color: white;
+}
+
+.banner-img {
+    height: 300px;
+}
+
+.sub-banner {
+    background-color: lightgrey;
+}
+
+.newcar-banner button {
+    width: 40%;
+    margin: 2%;
+}
+
+#trustpilot-image {
+    width: 200px;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
