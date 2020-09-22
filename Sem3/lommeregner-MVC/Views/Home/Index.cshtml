@@ -39,7 +39,7 @@
         var input = document.getElementById('calculatorInput');
         var statement = input.value;
         $.ajax({
-            url: 'https://localhost:80/Home/calculate',
+            url: 'https://localhost:3002/Home/calculate',
             data: JSON.stringify({ statement: statement }),
             type: 'POST',
             contentType: false,
