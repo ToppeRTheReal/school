@@ -1,0 +1,12 @@
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Collection Unit Tests/Fatbøde/Fatbøde/obj/Debug/netcoreapp3.1/Fatbøde.csprojAssemblyReference.cache
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Collection Unit Tests/Fatbøde/Fatbøde/obj/Debug/netcoreapp3.1/Fatbøde.AssemblyInfoInputs.cache
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Collection Unit Tests/Fatbøde/Fatbøde/obj/Debug/netcoreapp3.1/Fatbøde.AssemblyInfo.cs
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Collection Unit Tests/Fatbøde/Fatbøde/obj/Debug/netcoreapp3.1/Fatbøde.csproj.CoreCompileInputs.cache
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Collection Unit Tests/Fatbøde/Fatbøde/bin/Debug/netcoreapp3.1/Fatbøde.deps.json
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Collection Unit Tests/Fatbøde/Fatbøde/bin/Debug/netcoreapp3.1/Fatbøde.runtimeconfig.json
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Collection Unit Tests/Fatbøde/Fatbøde/bin/Debug/netcoreapp3.1/Fatbøde.runtimeconfig.dev.json
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Collection Unit Tests/Fatbøde/Fatbøde/bin/Debug/netcoreapp3.1/Fatbøde.dll
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Collection Unit Tests/Fatbøde/Fatbøde/bin/Debug/netcoreapp3.1/Fatbøde.pdb
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Collection Unit Tests/Fatbøde/Fatbøde/obj/Debug/netcoreapp3.1/Fatbøde.dll
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Collection Unit Tests/Fatbøde/Fatbøde/obj/Debug/netcoreapp3.1/Fatbøde.pdb
+/Users/thomasclausen/Documents/GitHub/School/Sem3/Collection Unit Tests/Fatbøde/Fatbøde/obj/Debug/netcoreapp3.1/Fatbøde.genruntimeconfig.cache

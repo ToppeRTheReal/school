@@ -9,7 +9,7 @@ namespace UnitTests
         [Fact]
         public void TestOmkreds()
         {
-            // Insert
+            // Arrange
             var trekant = new Trekant.Trekant();
             trekant.Init(6, 6, 10);
 

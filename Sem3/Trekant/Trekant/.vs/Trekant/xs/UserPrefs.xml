@@ -1,23 +1,22 @@
 ﻿<Properties StartupConfiguration="{016C6207-ABB1-4D81-B9D5-9627E9BD74FF}|Default">
-  <MonoDevelop.Ide.ItemProperties.Trekant FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Trekant PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="UnitTests/UnitTest1.cs">
     <Files>
-      <File FileName="Trekant/Program.cs" Line="9" Column="13" />
-      <File FileName="Trekant/Trekant.cs" Line="7" Column="18" />
-      <File FileName="UnitTests/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="UnitTests/UnitTest1.cs" Line="12" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Trekant" expanded="True">
             <Node name="Trekant" expanded="True" />
-            <Node name="UnitTests" expanded="True" selected="True" />
+            <Node name="UnitTests" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.UnitTests FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

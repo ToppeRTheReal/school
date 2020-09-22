@@ -5,10 +5,9 @@ COPY *.csproj ./
 RUN dotnet restore
 
 COPY . ./
-RUN dotnet public -c Release -o out
+RUN dotnet publish -c Release -o out
 
 FROM mcr.microsoft.com/dotnet/core/aspnet:3.1
 WORKDIR /app
-EXPOSE 3002
-COPY --from=build-env /app./out .
-ETRYPOINT ["dotnet", "lommeregner-MVC.dll"]
+COPY --from=build-env /app/out .
+ENTRYPOINT ["dotnet", "lommeregner-MVC.dll"]
